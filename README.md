@@ -1,2 +1,2 @@
 # reactjs-rocketfy-app
-Rocketfy is a project with functionality for task management.
+Rocketfy is a project with functionality for task management. 
