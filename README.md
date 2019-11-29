@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
     <img alt="" src="" />
     <br>
@@ -60,7 +59,3 @@ This project is under the MIT license.
 ---
 
 Made with ♥ by Elton Lazzarin :wave: [Get in touch!](https://www.linkedin.com/in/eltonlazzarin/)
-=======
-# reactjs-rocketfy-app
-Rocketfy is a project with functionality for task management. 
->>>>>>> 446240980520e250feb497aef0b43c3cca58b71c
