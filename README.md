@@ -23,7 +23,7 @@
 <img alt="GitHub Issues" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/main.png">
 
 <p align="center">
-  <button><a href="https://rocketfy-app.netlify.com/?_ga=2.144509429.1106770140.1574998627-178953922.1571280798"><img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.jpg"></img></a></button>
+  <button><a href="https://rocketfy-app.netlify.com/?_ga=2.144509429.1106770140.1574998627-178953922.1571280798"><img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.png"></img></a></button>
 
 This project was developed with the following technologies:
 
