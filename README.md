@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="" src="" />
     <br>
-    GitHub Issues
+    Rocketfy task manager
 </h1>
 
 <h4 align="center">
