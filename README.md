@@ -15,8 +15,8 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/reactjs-rocketfy-app">
   
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/reactjs-rocketfy-app">
-
-<a href="https://app.netlify.com/sites/rocketfy-app/deploys"><img src="https://api.netlify.com/api/v1/badges/628b9b72-f935-4349-861e-1e061b404782/deploy-status" alt="Netlify Status"></a>
+  
+  <a href="https://app.netlify.com/sites/rocketfy-app/deploys"><img src="https://api.netlify.com/api/v1/badges/628b9b72-f935-4349-861e-1e061b404782/deploy-status" alt="Netlify Status"></a>
 
 ### :rocket: Frontend Technologies (WebApp)
 
