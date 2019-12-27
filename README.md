@@ -1,7 +1,7 @@
 <h1 align="center"> 
     <img alt="" src="" />
     <br>
-    Rocketfy task manager
+    Rocketfy Task Manager
 </h1>
 
 <h4 align="center">
